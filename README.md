@@ -218,8 +218,9 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![alt text](395586784-495445e8-0759-49e9-bca3-208777d2fefe.png) 
 ![alt text](<Screenshot (8).png>)
+![alt text](395586784-495445e8-0759-49e9-bca3-208777d2fefe.png) 
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
